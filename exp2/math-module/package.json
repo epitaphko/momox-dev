@@ -1,0 +1,15 @@
+{
+  "name": "mmm",
+  "version": "1.0.0",
+  "description": "math test module",
+  "main": "mmm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "module_link"
+  ],
+  "author": "Stephen Ko",
+  "license": "MIT"
+}
